@@ -6,11 +6,15 @@ body {
 	}
 h1{
     text-align: center;
-    font-size: 125px;
+    font-size: 80px;
     color: white;
 }
 
 img {
+}
+
+.gif {
+
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -18,9 +22,6 @@ img {
     height:200px;
     background: #3A6F9A;
     vertical-align: middle;
-}
-
-.gif {
     position: relative; /* Declared position allows for location changes */
     bottom: -0px; /* Moves the image 2px closer to the top of the page */
 }
