@@ -4,6 +4,11 @@ body {
     background-attachment: fixed;
     background-position: center;
 	}
+h1{
+    text-align: center;
+    font-size: 150px;
+    color: white;
+}
 
 img {
     display: block;
@@ -17,7 +22,7 @@ img {
 
 .gif {
     position: relative; /* Declared position allows for location changes */
-    bottom: -650px; /* Moves the image 2px closer to the top of the page */
+    bottom: -350px; /* Moves the image 2px closer to the top of the page */
 }
 
 
