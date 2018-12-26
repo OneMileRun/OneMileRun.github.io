@@ -1,0 +1,23 @@
+body { 
+	background-image: url('poster.png'); 
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height:400px;
+    background: #3A6F9A;
+    vertical-align: middle;
+}
+
+div {
+    position: relative; /* Declared position allows for location changes */
+    bottom: -650px; /* Moves the image 2px closer to the top of the page */
+}
+
+
